@@ -1,0 +1,16 @@
+C:\Users\ersin\source\repos\Test Code Grade\04_Palindrome\bin\Debug\net5.0\04_Pyramid.exe
+C:\Users\ersin\source\repos\Test Code Grade\04_Palindrome\bin\Debug\net5.0\04_Pyramid.deps.json
+C:\Users\ersin\source\repos\Test Code Grade\04_Palindrome\bin\Debug\net5.0\04_Pyramid.runtimeconfig.json
+C:\Users\ersin\source\repos\Test Code Grade\04_Palindrome\bin\Debug\net5.0\04_Pyramid.runtimeconfig.dev.json
+C:\Users\ersin\source\repos\Test Code Grade\04_Palindrome\bin\Debug\net5.0\04_Pyramid.dll
+C:\Users\ersin\source\repos\Test Code Grade\04_Palindrome\bin\Debug\net5.0\ref\04_Pyramid.dll
+C:\Users\ersin\source\repos\Test Code Grade\04_Palindrome\bin\Debug\net5.0\04_Pyramid.pdb
+C:\Users\ersin\source\repos\Test Code Grade\04_Palindrome\obj\Debug\net5.0\04_Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\source\repos\Test Code Grade\04_Palindrome\obj\Debug\net5.0\04_Pyramid.AssemblyInfoInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\04_Palindrome\obj\Debug\net5.0\04_Pyramid.AssemblyInfo.cs
+C:\Users\ersin\source\repos\Test Code Grade\04_Palindrome\obj\Debug\net5.0\04_Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\04_Palindrome\obj\Debug\net5.0\04_Pyramid.dll
+C:\Users\ersin\source\repos\Test Code Grade\04_Palindrome\obj\Debug\net5.0\ref\04_Pyramid.dll
+C:\Users\ersin\source\repos\Test Code Grade\04_Palindrome\obj\Debug\net5.0\04_Pyramid.pdb
+C:\Users\ersin\source\repos\Test Code Grade\04_Palindrome\obj\Debug\net5.0\04_Pyramid.genruntimeconfig.cache
+C:\Users\ersin\source\repos\Test Code Grade\04_Palindrome\obj\Debug\net5.0\04_Pyramid.csproj.AssemblyReference.cache

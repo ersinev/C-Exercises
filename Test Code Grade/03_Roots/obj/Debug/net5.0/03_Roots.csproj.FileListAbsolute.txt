@@ -1,0 +1,15 @@
+C:\Users\ersin\source\repos\Test Code Grade\03_Roots\bin\Debug\net5.0\03_Roots.exe
+C:\Users\ersin\source\repos\Test Code Grade\03_Roots\bin\Debug\net5.0\03_Roots.deps.json
+C:\Users\ersin\source\repos\Test Code Grade\03_Roots\bin\Debug\net5.0\03_Roots.runtimeconfig.json
+C:\Users\ersin\source\repos\Test Code Grade\03_Roots\bin\Debug\net5.0\03_Roots.runtimeconfig.dev.json
+C:\Users\ersin\source\repos\Test Code Grade\03_Roots\bin\Debug\net5.0\03_Roots.dll
+C:\Users\ersin\source\repos\Test Code Grade\03_Roots\bin\Debug\net5.0\ref\03_Roots.dll
+C:\Users\ersin\source\repos\Test Code Grade\03_Roots\bin\Debug\net5.0\03_Roots.pdb
+C:\Users\ersin\source\repos\Test Code Grade\03_Roots\obj\Debug\net5.0\03_Roots.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\source\repos\Test Code Grade\03_Roots\obj\Debug\net5.0\03_Roots.AssemblyInfoInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\03_Roots\obj\Debug\net5.0\03_Roots.AssemblyInfo.cs
+C:\Users\ersin\source\repos\Test Code Grade\03_Roots\obj\Debug\net5.0\03_Roots.csproj.CoreCompileInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\03_Roots\obj\Debug\net5.0\03_Roots.dll
+C:\Users\ersin\source\repos\Test Code Grade\03_Roots\obj\Debug\net5.0\ref\03_Roots.dll
+C:\Users\ersin\source\repos\Test Code Grade\03_Roots\obj\Debug\net5.0\03_Roots.pdb
+C:\Users\ersin\source\repos\Test Code Grade\03_Roots\obj\Debug\net5.0\03_Roots.genruntimeconfig.cache

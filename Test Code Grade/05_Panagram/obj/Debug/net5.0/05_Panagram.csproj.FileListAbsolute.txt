@@ -1,0 +1,15 @@
+C:\Users\ersin\source\repos\Test Code Grade\05_Panagram\bin\Debug\net5.0\05_Panagram.exe
+C:\Users\ersin\source\repos\Test Code Grade\05_Panagram\bin\Debug\net5.0\05_Panagram.deps.json
+C:\Users\ersin\source\repos\Test Code Grade\05_Panagram\bin\Debug\net5.0\05_Panagram.runtimeconfig.json
+C:\Users\ersin\source\repos\Test Code Grade\05_Panagram\bin\Debug\net5.0\05_Panagram.runtimeconfig.dev.json
+C:\Users\ersin\source\repos\Test Code Grade\05_Panagram\bin\Debug\net5.0\05_Panagram.dll
+C:\Users\ersin\source\repos\Test Code Grade\05_Panagram\bin\Debug\net5.0\ref\05_Panagram.dll
+C:\Users\ersin\source\repos\Test Code Grade\05_Panagram\bin\Debug\net5.0\05_Panagram.pdb
+C:\Users\ersin\source\repos\Test Code Grade\05_Panagram\obj\Debug\net5.0\05_Panagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\source\repos\Test Code Grade\05_Panagram\obj\Debug\net5.0\05_Panagram.AssemblyInfoInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\05_Panagram\obj\Debug\net5.0\05_Panagram.AssemblyInfo.cs
+C:\Users\ersin\source\repos\Test Code Grade\05_Panagram\obj\Debug\net5.0\05_Panagram.csproj.CoreCompileInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\05_Panagram\obj\Debug\net5.0\05_Panagram.dll
+C:\Users\ersin\source\repos\Test Code Grade\05_Panagram\obj\Debug\net5.0\ref\05_Panagram.dll
+C:\Users\ersin\source\repos\Test Code Grade\05_Panagram\obj\Debug\net5.0\05_Panagram.pdb
+C:\Users\ersin\source\repos\Test Code Grade\05_Panagram\obj\Debug\net5.0\05_Panagram.genruntimeconfig.cache

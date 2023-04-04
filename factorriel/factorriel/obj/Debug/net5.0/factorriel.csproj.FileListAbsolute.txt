@@ -1,0 +1,15 @@
+C:\Users\ersin\source\repos\factorriel\factorriel\bin\Debug\net5.0\factorriel.exe
+C:\Users\ersin\source\repos\factorriel\factorriel\bin\Debug\net5.0\factorriel.deps.json
+C:\Users\ersin\source\repos\factorriel\factorriel\bin\Debug\net5.0\factorriel.runtimeconfig.json
+C:\Users\ersin\source\repos\factorriel\factorriel\bin\Debug\net5.0\factorriel.runtimeconfig.dev.json
+C:\Users\ersin\source\repos\factorriel\factorriel\bin\Debug\net5.0\factorriel.dll
+C:\Users\ersin\source\repos\factorriel\factorriel\bin\Debug\net5.0\ref\factorriel.dll
+C:\Users\ersin\source\repos\factorriel\factorriel\bin\Debug\net5.0\factorriel.pdb
+C:\Users\ersin\source\repos\factorriel\factorriel\obj\Debug\net5.0\factorriel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\source\repos\factorriel\factorriel\obj\Debug\net5.0\factorriel.AssemblyInfoInputs.cache
+C:\Users\ersin\source\repos\factorriel\factorriel\obj\Debug\net5.0\factorriel.AssemblyInfo.cs
+C:\Users\ersin\source\repos\factorriel\factorriel\obj\Debug\net5.0\factorriel.csproj.CoreCompileInputs.cache
+C:\Users\ersin\source\repos\factorriel\factorriel\obj\Debug\net5.0\factorriel.dll
+C:\Users\ersin\source\repos\factorriel\factorriel\obj\Debug\net5.0\ref\factorriel.dll
+C:\Users\ersin\source\repos\factorriel\factorriel\obj\Debug\net5.0\factorriel.pdb
+C:\Users\ersin\source\repos\factorriel\factorriel\obj\Debug\net5.0\factorriel.genruntimeconfig.cache

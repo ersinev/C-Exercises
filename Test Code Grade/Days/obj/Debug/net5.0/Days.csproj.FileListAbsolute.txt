@@ -1,0 +1,16 @@
+C:\Users\ersin\source\repos\Test Code Grade\Days\obj\Debug\net5.0\Days.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\source\repos\Test Code Grade\Days\obj\Debug\net5.0\Days.AssemblyInfoInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\Days\obj\Debug\net5.0\Days.AssemblyInfo.cs
+C:\Users\ersin\source\repos\Test Code Grade\Days\obj\Debug\net5.0\Days.csproj.CoreCompileInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\Days\bin\Debug\net5.0\Days.exe
+C:\Users\ersin\source\repos\Test Code Grade\Days\bin\Debug\net5.0\Days.deps.json
+C:\Users\ersin\source\repos\Test Code Grade\Days\bin\Debug\net5.0\Days.runtimeconfig.json
+C:\Users\ersin\source\repos\Test Code Grade\Days\bin\Debug\net5.0\Days.runtimeconfig.dev.json
+C:\Users\ersin\source\repos\Test Code Grade\Days\bin\Debug\net5.0\Days.dll
+C:\Users\ersin\source\repos\Test Code Grade\Days\bin\Debug\net5.0\ref\Days.dll
+C:\Users\ersin\source\repos\Test Code Grade\Days\bin\Debug\net5.0\Days.pdb
+C:\Users\ersin\source\repos\Test Code Grade\Days\obj\Debug\net5.0\Days.dll
+C:\Users\ersin\source\repos\Test Code Grade\Days\obj\Debug\net5.0\ref\Days.dll
+C:\Users\ersin\source\repos\Test Code Grade\Days\obj\Debug\net5.0\Days.pdb
+C:\Users\ersin\source\repos\Test Code Grade\Days\obj\Debug\net5.0\Days.genruntimeconfig.cache
+C:\Users\ersin\source\repos\Test Code Grade\Days\obj\Debug\net5.0\Days.csproj.AssemblyReference.cache

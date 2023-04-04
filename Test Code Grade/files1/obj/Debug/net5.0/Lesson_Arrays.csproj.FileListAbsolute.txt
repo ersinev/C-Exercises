@@ -1,0 +1,16 @@
+C:\Users\ersin\source\repos\Test Code Grade\files1\bin\Debug\net5.0\Lesson_Arrays.exe
+C:\Users\ersin\source\repos\Test Code Grade\files1\bin\Debug\net5.0\Lesson_Arrays.deps.json
+C:\Users\ersin\source\repos\Test Code Grade\files1\bin\Debug\net5.0\Lesson_Arrays.runtimeconfig.json
+C:\Users\ersin\source\repos\Test Code Grade\files1\bin\Debug\net5.0\Lesson_Arrays.runtimeconfig.dev.json
+C:\Users\ersin\source\repos\Test Code Grade\files1\bin\Debug\net5.0\Lesson_Arrays.dll
+C:\Users\ersin\source\repos\Test Code Grade\files1\bin\Debug\net5.0\ref\Lesson_Arrays.dll
+C:\Users\ersin\source\repos\Test Code Grade\files1\bin\Debug\net5.0\Lesson_Arrays.pdb
+C:\Users\ersin\source\repos\Test Code Grade\files1\obj\Debug\net5.0\Lesson_Arrays.csproj.AssemblyReference.cache
+C:\Users\ersin\source\repos\Test Code Grade\files1\obj\Debug\net5.0\Lesson_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\source\repos\Test Code Grade\files1\obj\Debug\net5.0\Lesson_Arrays.AssemblyInfoInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\files1\obj\Debug\net5.0\Lesson_Arrays.AssemblyInfo.cs
+C:\Users\ersin\source\repos\Test Code Grade\files1\obj\Debug\net5.0\Lesson_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\files1\obj\Debug\net5.0\Lesson_Arrays.dll
+C:\Users\ersin\source\repos\Test Code Grade\files1\obj\Debug\net5.0\ref\Lesson_Arrays.dll
+C:\Users\ersin\source\repos\Test Code Grade\files1\obj\Debug\net5.0\Lesson_Arrays.pdb
+C:\Users\ersin\source\repos\Test Code Grade\files1\obj\Debug\net5.0\Lesson_Arrays.genruntimeconfig.cache

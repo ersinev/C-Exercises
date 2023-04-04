@@ -1,0 +1,16 @@
+C:\Users\ersin\source\repos\Test Code Grade\distance2\bin\Debug\net5.0\distance2.exe
+C:\Users\ersin\source\repos\Test Code Grade\distance2\bin\Debug\net5.0\distance2.deps.json
+C:\Users\ersin\source\repos\Test Code Grade\distance2\bin\Debug\net5.0\distance2.runtimeconfig.json
+C:\Users\ersin\source\repos\Test Code Grade\distance2\bin\Debug\net5.0\distance2.runtimeconfig.dev.json
+C:\Users\ersin\source\repos\Test Code Grade\distance2\bin\Debug\net5.0\distance2.dll
+C:\Users\ersin\source\repos\Test Code Grade\distance2\bin\Debug\net5.0\ref\distance2.dll
+C:\Users\ersin\source\repos\Test Code Grade\distance2\bin\Debug\net5.0\distance2.pdb
+C:\Users\ersin\source\repos\Test Code Grade\distance2\obj\Debug\net5.0\distance2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\source\repos\Test Code Grade\distance2\obj\Debug\net5.0\distance2.AssemblyInfoInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\distance2\obj\Debug\net5.0\distance2.AssemblyInfo.cs
+C:\Users\ersin\source\repos\Test Code Grade\distance2\obj\Debug\net5.0\distance2.csproj.CoreCompileInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\distance2\obj\Debug\net5.0\distance2.dll
+C:\Users\ersin\source\repos\Test Code Grade\distance2\obj\Debug\net5.0\ref\distance2.dll
+C:\Users\ersin\source\repos\Test Code Grade\distance2\obj\Debug\net5.0\distance2.pdb
+C:\Users\ersin\source\repos\Test Code Grade\distance2\obj\Debug\net5.0\distance2.genruntimeconfig.cache
+C:\Users\ersin\source\repos\Test Code Grade\distance2\obj\Debug\net5.0\distance2.csproj.AssemblyReference.cache

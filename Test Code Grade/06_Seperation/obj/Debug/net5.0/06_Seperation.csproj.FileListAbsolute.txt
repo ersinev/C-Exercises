@@ -1,0 +1,16 @@
+C:\Users\ersin\source\repos\Test Code Grade\06_Seperation\obj\Debug\net5.0\06_Seperation.csproj.AssemblyReference.cache
+C:\Users\ersin\source\repos\Test Code Grade\06_Seperation\obj\Debug\net5.0\06_Seperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\source\repos\Test Code Grade\06_Seperation\obj\Debug\net5.0\06_Seperation.AssemblyInfoInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\06_Seperation\obj\Debug\net5.0\06_Seperation.AssemblyInfo.cs
+C:\Users\ersin\source\repos\Test Code Grade\06_Seperation\obj\Debug\net5.0\06_Seperation.csproj.CoreCompileInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\06_Seperation\bin\Debug\net5.0\06_Seperation.exe
+C:\Users\ersin\source\repos\Test Code Grade\06_Seperation\bin\Debug\net5.0\06_Seperation.deps.json
+C:\Users\ersin\source\repos\Test Code Grade\06_Seperation\bin\Debug\net5.0\06_Seperation.runtimeconfig.json
+C:\Users\ersin\source\repos\Test Code Grade\06_Seperation\bin\Debug\net5.0\06_Seperation.runtimeconfig.dev.json
+C:\Users\ersin\source\repos\Test Code Grade\06_Seperation\bin\Debug\net5.0\06_Seperation.dll
+C:\Users\ersin\source\repos\Test Code Grade\06_Seperation\bin\Debug\net5.0\ref\06_Seperation.dll
+C:\Users\ersin\source\repos\Test Code Grade\06_Seperation\bin\Debug\net5.0\06_Seperation.pdb
+C:\Users\ersin\source\repos\Test Code Grade\06_Seperation\obj\Debug\net5.0\06_Seperation.dll
+C:\Users\ersin\source\repos\Test Code Grade\06_Seperation\obj\Debug\net5.0\ref\06_Seperation.dll
+C:\Users\ersin\source\repos\Test Code Grade\06_Seperation\obj\Debug\net5.0\06_Seperation.pdb
+C:\Users\ersin\source\repos\Test Code Grade\06_Seperation\obj\Debug\net5.0\06_Seperation.genruntimeconfig.cache

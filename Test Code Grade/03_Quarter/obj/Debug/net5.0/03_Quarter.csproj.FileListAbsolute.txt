@@ -1,0 +1,16 @@
+C:\Users\ersin\source\repos\Test Code Grade\03_Quarter\obj\Debug\net5.0\03_Quarter.csproj.AssemblyReference.cache
+C:\Users\ersin\source\repos\Test Code Grade\03_Quarter\obj\Debug\net5.0\03_Quarter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\source\repos\Test Code Grade\03_Quarter\obj\Debug\net5.0\03_Quarter.AssemblyInfoInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\03_Quarter\obj\Debug\net5.0\03_Quarter.AssemblyInfo.cs
+C:\Users\ersin\source\repos\Test Code Grade\03_Quarter\obj\Debug\net5.0\03_Quarter.csproj.CoreCompileInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\03_Quarter\bin\Debug\net5.0\03_Quarter.exe
+C:\Users\ersin\source\repos\Test Code Grade\03_Quarter\bin\Debug\net5.0\03_Quarter.deps.json
+C:\Users\ersin\source\repos\Test Code Grade\03_Quarter\bin\Debug\net5.0\03_Quarter.runtimeconfig.json
+C:\Users\ersin\source\repos\Test Code Grade\03_Quarter\bin\Debug\net5.0\03_Quarter.runtimeconfig.dev.json
+C:\Users\ersin\source\repos\Test Code Grade\03_Quarter\bin\Debug\net5.0\03_Quarter.dll
+C:\Users\ersin\source\repos\Test Code Grade\03_Quarter\bin\Debug\net5.0\ref\03_Quarter.dll
+C:\Users\ersin\source\repos\Test Code Grade\03_Quarter\bin\Debug\net5.0\03_Quarter.pdb
+C:\Users\ersin\source\repos\Test Code Grade\03_Quarter\obj\Debug\net5.0\03_Quarter.dll
+C:\Users\ersin\source\repos\Test Code Grade\03_Quarter\obj\Debug\net5.0\ref\03_Quarter.dll
+C:\Users\ersin\source\repos\Test Code Grade\03_Quarter\obj\Debug\net5.0\03_Quarter.pdb
+C:\Users\ersin\source\repos\Test Code Grade\03_Quarter\obj\Debug\net5.0\03_Quarter.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\ersin\source\repos\Test Code Grade\03_Negative\obj\Debug\net5.0\03_Negative.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\source\repos\Test Code Grade\03_Negative\obj\Debug\net5.0\03_Negative.AssemblyInfoInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\03_Negative\obj\Debug\net5.0\03_Negative.AssemblyInfo.cs
+C:\Users\ersin\source\repos\Test Code Grade\03_Negative\obj\Debug\net5.0\03_Negative.csproj.CoreCompileInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\03_Negative\bin\Debug\net5.0\03_Negative.exe
+C:\Users\ersin\source\repos\Test Code Grade\03_Negative\bin\Debug\net5.0\03_Negative.deps.json
+C:\Users\ersin\source\repos\Test Code Grade\03_Negative\bin\Debug\net5.0\03_Negative.runtimeconfig.json
+C:\Users\ersin\source\repos\Test Code Grade\03_Negative\bin\Debug\net5.0\03_Negative.runtimeconfig.dev.json
+C:\Users\ersin\source\repos\Test Code Grade\03_Negative\bin\Debug\net5.0\03_Negative.dll
+C:\Users\ersin\source\repos\Test Code Grade\03_Negative\bin\Debug\net5.0\ref\03_Negative.dll
+C:\Users\ersin\source\repos\Test Code Grade\03_Negative\bin\Debug\net5.0\03_Negative.pdb
+C:\Users\ersin\source\repos\Test Code Grade\03_Negative\obj\Debug\net5.0\03_Negative.dll
+C:\Users\ersin\source\repos\Test Code Grade\03_Negative\obj\Debug\net5.0\ref\03_Negative.dll
+C:\Users\ersin\source\repos\Test Code Grade\03_Negative\obj\Debug\net5.0\03_Negative.pdb
+C:\Users\ersin\source\repos\Test Code Grade\03_Negative\obj\Debug\net5.0\03_Negative.genruntimeconfig.cache
+C:\Users\ersin\source\repos\Test Code Grade\03_Negative\obj\Debug\net5.0\03_Negative.csproj.AssemblyReference.cache

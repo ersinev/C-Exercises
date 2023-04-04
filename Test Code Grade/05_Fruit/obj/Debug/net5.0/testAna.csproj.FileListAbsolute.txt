@@ -1,0 +1,15 @@
+C:\Users\ersin\source\repos\Test Code Grade\testAna\bin\Debug\net5.0\testAna.exe
+C:\Users\ersin\source\repos\Test Code Grade\testAna\bin\Debug\net5.0\testAna.deps.json
+C:\Users\ersin\source\repos\Test Code Grade\testAna\bin\Debug\net5.0\testAna.runtimeconfig.json
+C:\Users\ersin\source\repos\Test Code Grade\testAna\bin\Debug\net5.0\testAna.runtimeconfig.dev.json
+C:\Users\ersin\source\repos\Test Code Grade\testAna\bin\Debug\net5.0\testAna.dll
+C:\Users\ersin\source\repos\Test Code Grade\testAna\bin\Debug\net5.0\ref\testAna.dll
+C:\Users\ersin\source\repos\Test Code Grade\testAna\bin\Debug\net5.0\testAna.pdb
+C:\Users\ersin\source\repos\Test Code Grade\testAna\obj\Debug\net5.0\testAna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\source\repos\Test Code Grade\testAna\obj\Debug\net5.0\testAna.AssemblyInfoInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\testAna\obj\Debug\net5.0\testAna.AssemblyInfo.cs
+C:\Users\ersin\source\repos\Test Code Grade\testAna\obj\Debug\net5.0\testAna.csproj.CoreCompileInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\testAna\obj\Debug\net5.0\testAna.dll
+C:\Users\ersin\source\repos\Test Code Grade\testAna\obj\Debug\net5.0\ref\testAna.dll
+C:\Users\ersin\source\repos\Test Code Grade\testAna\obj\Debug\net5.0\testAna.pdb
+C:\Users\ersin\source\repos\Test Code Grade\testAna\obj\Debug\net5.0\testAna.genruntimeconfig.cache

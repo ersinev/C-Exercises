@@ -1,0 +1,16 @@
+C:\Users\ersin\source\repos\Test Code Grade\03_Digit as Word\bin\Debug\net5.0\03_Digit as Word.exe
+C:\Users\ersin\source\repos\Test Code Grade\03_Digit as Word\bin\Debug\net5.0\03_Digit as Word.deps.json
+C:\Users\ersin\source\repos\Test Code Grade\03_Digit as Word\bin\Debug\net5.0\03_Digit as Word.runtimeconfig.json
+C:\Users\ersin\source\repos\Test Code Grade\03_Digit as Word\bin\Debug\net5.0\03_Digit as Word.runtimeconfig.dev.json
+C:\Users\ersin\source\repos\Test Code Grade\03_Digit as Word\bin\Debug\net5.0\03_Digit as Word.dll
+C:\Users\ersin\source\repos\Test Code Grade\03_Digit as Word\bin\Debug\net5.0\ref\03_Digit as Word.dll
+C:\Users\ersin\source\repos\Test Code Grade\03_Digit as Word\bin\Debug\net5.0\03_Digit as Word.pdb
+C:\Users\ersin\source\repos\Test Code Grade\03_Digit as Word\obj\Debug\net5.0\03_Digit as Word.csproj.AssemblyReference.cache
+C:\Users\ersin\source\repos\Test Code Grade\03_Digit as Word\obj\Debug\net5.0\03_Digit as Word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\source\repos\Test Code Grade\03_Digit as Word\obj\Debug\net5.0\03_Digit as Word.AssemblyInfoInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\03_Digit as Word\obj\Debug\net5.0\03_Digit as Word.AssemblyInfo.cs
+C:\Users\ersin\source\repos\Test Code Grade\03_Digit as Word\obj\Debug\net5.0\03_Digit as Word.csproj.CoreCompileInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\03_Digit as Word\obj\Debug\net5.0\03_Digit as Word.dll
+C:\Users\ersin\source\repos\Test Code Grade\03_Digit as Word\obj\Debug\net5.0\ref\03_Digit as Word.dll
+C:\Users\ersin\source\repos\Test Code Grade\03_Digit as Word\obj\Debug\net5.0\03_Digit as Word.pdb
+C:\Users\ersin\source\repos\Test Code Grade\03_Digit as Word\obj\Debug\net5.0\03_Digit as Word.genruntimeconfig.cache

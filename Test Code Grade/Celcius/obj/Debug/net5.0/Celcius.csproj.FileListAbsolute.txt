@@ -1,0 +1,16 @@
+C:\Users\ersin\source\repos\Test Code Grade\Celcius\bin\Debug\net5.0\Celcius.exe
+C:\Users\ersin\source\repos\Test Code Grade\Celcius\bin\Debug\net5.0\Celcius.deps.json
+C:\Users\ersin\source\repos\Test Code Grade\Celcius\bin\Debug\net5.0\Celcius.runtimeconfig.json
+C:\Users\ersin\source\repos\Test Code Grade\Celcius\bin\Debug\net5.0\Celcius.runtimeconfig.dev.json
+C:\Users\ersin\source\repos\Test Code Grade\Celcius\bin\Debug\net5.0\Celcius.dll
+C:\Users\ersin\source\repos\Test Code Grade\Celcius\bin\Debug\net5.0\ref\Celcius.dll
+C:\Users\ersin\source\repos\Test Code Grade\Celcius\bin\Debug\net5.0\Celcius.pdb
+C:\Users\ersin\source\repos\Test Code Grade\Celcius\obj\Debug\net5.0\Celcius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\source\repos\Test Code Grade\Celcius\obj\Debug\net5.0\Celcius.AssemblyInfoInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\Celcius\obj\Debug\net5.0\Celcius.AssemblyInfo.cs
+C:\Users\ersin\source\repos\Test Code Grade\Celcius\obj\Debug\net5.0\Celcius.csproj.CoreCompileInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\Celcius\obj\Debug\net5.0\Celcius.dll
+C:\Users\ersin\source\repos\Test Code Grade\Celcius\obj\Debug\net5.0\ref\Celcius.dll
+C:\Users\ersin\source\repos\Test Code Grade\Celcius\obj\Debug\net5.0\Celcius.pdb
+C:\Users\ersin\source\repos\Test Code Grade\Celcius\obj\Debug\net5.0\Celcius.genruntimeconfig.cache
+C:\Users\ersin\source\repos\Test Code Grade\Celcius\obj\Debug\net5.0\Celcius.csproj.AssemblyReference.cache

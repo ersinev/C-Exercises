@@ -1,0 +1,15 @@
+C:\Users\ersin\source\repos\Test Code Grade\04_prime_number\bin\Debug\net5.0\04_prime_number.exe
+C:\Users\ersin\source\repos\Test Code Grade\04_prime_number\bin\Debug\net5.0\04_prime_number.deps.json
+C:\Users\ersin\source\repos\Test Code Grade\04_prime_number\bin\Debug\net5.0\04_prime_number.runtimeconfig.json
+C:\Users\ersin\source\repos\Test Code Grade\04_prime_number\bin\Debug\net5.0\04_prime_number.runtimeconfig.dev.json
+C:\Users\ersin\source\repos\Test Code Grade\04_prime_number\bin\Debug\net5.0\04_prime_number.dll
+C:\Users\ersin\source\repos\Test Code Grade\04_prime_number\bin\Debug\net5.0\ref\04_prime_number.dll
+C:\Users\ersin\source\repos\Test Code Grade\04_prime_number\bin\Debug\net5.0\04_prime_number.pdb
+C:\Users\ersin\source\repos\Test Code Grade\04_prime_number\obj\Debug\net5.0\04_prime_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\source\repos\Test Code Grade\04_prime_number\obj\Debug\net5.0\04_prime_number.AssemblyInfoInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\04_prime_number\obj\Debug\net5.0\04_prime_number.AssemblyInfo.cs
+C:\Users\ersin\source\repos\Test Code Grade\04_prime_number\obj\Debug\net5.0\04_prime_number.csproj.CoreCompileInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\04_prime_number\obj\Debug\net5.0\04_prime_number.dll
+C:\Users\ersin\source\repos\Test Code Grade\04_prime_number\obj\Debug\net5.0\ref\04_prime_number.dll
+C:\Users\ersin\source\repos\Test Code Grade\04_prime_number\obj\Debug\net5.0\04_prime_number.pdb
+C:\Users\ersin\source\repos\Test Code Grade\04_prime_number\obj\Debug\net5.0\04_prime_number.genruntimeconfig.cache

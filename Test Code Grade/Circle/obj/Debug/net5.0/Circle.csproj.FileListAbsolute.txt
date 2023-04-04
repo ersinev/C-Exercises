@@ -1,0 +1,15 @@
+C:\Users\ersin\source\repos\Test Code Grade\Circle\bin\Debug\net5.0\Circle.exe
+C:\Users\ersin\source\repos\Test Code Grade\Circle\bin\Debug\net5.0\Circle.deps.json
+C:\Users\ersin\source\repos\Test Code Grade\Circle\bin\Debug\net5.0\Circle.runtimeconfig.json
+C:\Users\ersin\source\repos\Test Code Grade\Circle\bin\Debug\net5.0\Circle.runtimeconfig.dev.json
+C:\Users\ersin\source\repos\Test Code Grade\Circle\bin\Debug\net5.0\Circle.dll
+C:\Users\ersin\source\repos\Test Code Grade\Circle\bin\Debug\net5.0\ref\Circle.dll
+C:\Users\ersin\source\repos\Test Code Grade\Circle\bin\Debug\net5.0\Circle.pdb
+C:\Users\ersin\source\repos\Test Code Grade\Circle\obj\Debug\net5.0\Circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\source\repos\Test Code Grade\Circle\obj\Debug\net5.0\Circle.AssemblyInfoInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\Circle\obj\Debug\net5.0\Circle.AssemblyInfo.cs
+C:\Users\ersin\source\repos\Test Code Grade\Circle\obj\Debug\net5.0\Circle.csproj.CoreCompileInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\Circle\obj\Debug\net5.0\Circle.dll
+C:\Users\ersin\source\repos\Test Code Grade\Circle\obj\Debug\net5.0\ref\Circle.dll
+C:\Users\ersin\source\repos\Test Code Grade\Circle\obj\Debug\net5.0\Circle.pdb
+C:\Users\ersin\source\repos\Test Code Grade\Circle\obj\Debug\net5.0\Circle.genruntimeconfig.cache

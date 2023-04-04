@@ -1,0 +1,16 @@
+C:\Users\ersin\source\repos\Test Code Grade\Test Code Grade\bin\Debug\net5.0\Test Code Grade.exe
+C:\Users\ersin\source\repos\Test Code Grade\Test Code Grade\bin\Debug\net5.0\Test Code Grade.deps.json
+C:\Users\ersin\source\repos\Test Code Grade\Test Code Grade\bin\Debug\net5.0\Test Code Grade.runtimeconfig.json
+C:\Users\ersin\source\repos\Test Code Grade\Test Code Grade\bin\Debug\net5.0\Test Code Grade.runtimeconfig.dev.json
+C:\Users\ersin\source\repos\Test Code Grade\Test Code Grade\bin\Debug\net5.0\Test Code Grade.dll
+C:\Users\ersin\source\repos\Test Code Grade\Test Code Grade\bin\Debug\net5.0\ref\Test Code Grade.dll
+C:\Users\ersin\source\repos\Test Code Grade\Test Code Grade\bin\Debug\net5.0\Test Code Grade.pdb
+C:\Users\ersin\source\repos\Test Code Grade\Test Code Grade\obj\Debug\net5.0\Test Code Grade.csproj.AssemblyReference.cache
+C:\Users\ersin\source\repos\Test Code Grade\Test Code Grade\obj\Debug\net5.0\Test Code Grade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\source\repos\Test Code Grade\Test Code Grade\obj\Debug\net5.0\Test Code Grade.AssemblyInfoInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\Test Code Grade\obj\Debug\net5.0\Test Code Grade.AssemblyInfo.cs
+C:\Users\ersin\source\repos\Test Code Grade\Test Code Grade\obj\Debug\net5.0\Test Code Grade.csproj.CoreCompileInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\Test Code Grade\obj\Debug\net5.0\Test Code Grade.dll
+C:\Users\ersin\source\repos\Test Code Grade\Test Code Grade\obj\Debug\net5.0\ref\Test Code Grade.dll
+C:\Users\ersin\source\repos\Test Code Grade\Test Code Grade\obj\Debug\net5.0\Test Code Grade.pdb
+C:\Users\ersin\source\repos\Test Code Grade\Test Code Grade\obj\Debug\net5.0\Test Code Grade.genruntimeconfig.cache

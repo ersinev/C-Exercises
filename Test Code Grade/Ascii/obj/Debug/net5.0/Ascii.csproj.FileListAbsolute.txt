@@ -1,0 +1,16 @@
+C:\Users\ersin\source\repos\Test Code Grade\Ascii\bin\Debug\net5.0\Ascii.exe
+C:\Users\ersin\source\repos\Test Code Grade\Ascii\bin\Debug\net5.0\Ascii.deps.json
+C:\Users\ersin\source\repos\Test Code Grade\Ascii\bin\Debug\net5.0\Ascii.runtimeconfig.json
+C:\Users\ersin\source\repos\Test Code Grade\Ascii\bin\Debug\net5.0\Ascii.runtimeconfig.dev.json
+C:\Users\ersin\source\repos\Test Code Grade\Ascii\bin\Debug\net5.0\Ascii.dll
+C:\Users\ersin\source\repos\Test Code Grade\Ascii\bin\Debug\net5.0\ref\Ascii.dll
+C:\Users\ersin\source\repos\Test Code Grade\Ascii\bin\Debug\net5.0\Ascii.pdb
+C:\Users\ersin\source\repos\Test Code Grade\Ascii\obj\Debug\net5.0\Ascii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\source\repos\Test Code Grade\Ascii\obj\Debug\net5.0\Ascii.AssemblyInfoInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\Ascii\obj\Debug\net5.0\Ascii.AssemblyInfo.cs
+C:\Users\ersin\source\repos\Test Code Grade\Ascii\obj\Debug\net5.0\Ascii.csproj.CoreCompileInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\Ascii\obj\Debug\net5.0\Ascii.dll
+C:\Users\ersin\source\repos\Test Code Grade\Ascii\obj\Debug\net5.0\ref\Ascii.dll
+C:\Users\ersin\source\repos\Test Code Grade\Ascii\obj\Debug\net5.0\Ascii.pdb
+C:\Users\ersin\source\repos\Test Code Grade\Ascii\obj\Debug\net5.0\Ascii.genruntimeconfig.cache
+C:\Users\ersin\source\repos\Test Code Grade\Ascii\obj\Debug\net5.0\Ascii.csproj.AssemblyReference.cache

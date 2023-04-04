@@ -1,0 +1,16 @@
+C:\Users\ersin\source\repos\Test Code Grade\04_CurzonNumbers\bin\Debug\net5.0\04_CurzonNumbers.exe
+C:\Users\ersin\source\repos\Test Code Grade\04_CurzonNumbers\bin\Debug\net5.0\04_CurzonNumbers.deps.json
+C:\Users\ersin\source\repos\Test Code Grade\04_CurzonNumbers\bin\Debug\net5.0\04_CurzonNumbers.runtimeconfig.json
+C:\Users\ersin\source\repos\Test Code Grade\04_CurzonNumbers\bin\Debug\net5.0\04_CurzonNumbers.runtimeconfig.dev.json
+C:\Users\ersin\source\repos\Test Code Grade\04_CurzonNumbers\bin\Debug\net5.0\04_CurzonNumbers.dll
+C:\Users\ersin\source\repos\Test Code Grade\04_CurzonNumbers\bin\Debug\net5.0\ref\04_CurzonNumbers.dll
+C:\Users\ersin\source\repos\Test Code Grade\04_CurzonNumbers\bin\Debug\net5.0\04_CurzonNumbers.pdb
+C:\Users\ersin\source\repos\Test Code Grade\04_CurzonNumbers\obj\Debug\net5.0\04_CurzonNumbers.csproj.AssemblyReference.cache
+C:\Users\ersin\source\repos\Test Code Grade\04_CurzonNumbers\obj\Debug\net5.0\04_CurzonNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\source\repos\Test Code Grade\04_CurzonNumbers\obj\Debug\net5.0\04_CurzonNumbers.AssemblyInfoInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\04_CurzonNumbers\obj\Debug\net5.0\04_CurzonNumbers.AssemblyInfo.cs
+C:\Users\ersin\source\repos\Test Code Grade\04_CurzonNumbers\obj\Debug\net5.0\04_CurzonNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\04_CurzonNumbers\obj\Debug\net5.0\04_CurzonNumbers.dll
+C:\Users\ersin\source\repos\Test Code Grade\04_CurzonNumbers\obj\Debug\net5.0\ref\04_CurzonNumbers.dll
+C:\Users\ersin\source\repos\Test Code Grade\04_CurzonNumbers\obj\Debug\net5.0\04_CurzonNumbers.pdb
+C:\Users\ersin\source\repos\Test Code Grade\04_CurzonNumbers\obj\Debug\net5.0\04_CurzonNumbers.genruntimeconfig.cache

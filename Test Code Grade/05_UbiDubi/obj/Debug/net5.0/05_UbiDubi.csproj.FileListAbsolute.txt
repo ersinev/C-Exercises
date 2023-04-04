@@ -1,0 +1,15 @@
+C:\Users\ersin\source\repos\Test Code Grade\05_UbiDubi\bin\Debug\net5.0\05_UbiDubi.exe
+C:\Users\ersin\source\repos\Test Code Grade\05_UbiDubi\bin\Debug\net5.0\05_UbiDubi.deps.json
+C:\Users\ersin\source\repos\Test Code Grade\05_UbiDubi\bin\Debug\net5.0\05_UbiDubi.runtimeconfig.json
+C:\Users\ersin\source\repos\Test Code Grade\05_UbiDubi\bin\Debug\net5.0\05_UbiDubi.runtimeconfig.dev.json
+C:\Users\ersin\source\repos\Test Code Grade\05_UbiDubi\bin\Debug\net5.0\05_UbiDubi.dll
+C:\Users\ersin\source\repos\Test Code Grade\05_UbiDubi\bin\Debug\net5.0\ref\05_UbiDubi.dll
+C:\Users\ersin\source\repos\Test Code Grade\05_UbiDubi\bin\Debug\net5.0\05_UbiDubi.pdb
+C:\Users\ersin\source\repos\Test Code Grade\05_UbiDubi\obj\Debug\net5.0\05_UbiDubi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\source\repos\Test Code Grade\05_UbiDubi\obj\Debug\net5.0\05_UbiDubi.AssemblyInfoInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\05_UbiDubi\obj\Debug\net5.0\05_UbiDubi.AssemblyInfo.cs
+C:\Users\ersin\source\repos\Test Code Grade\05_UbiDubi\obj\Debug\net5.0\05_UbiDubi.csproj.CoreCompileInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\05_UbiDubi\obj\Debug\net5.0\05_UbiDubi.dll
+C:\Users\ersin\source\repos\Test Code Grade\05_UbiDubi\obj\Debug\net5.0\ref\05_UbiDubi.dll
+C:\Users\ersin\source\repos\Test Code Grade\05_UbiDubi\obj\Debug\net5.0\05_UbiDubi.pdb
+C:\Users\ersin\source\repos\Test Code Grade\05_UbiDubi\obj\Debug\net5.0\05_UbiDubi.genruntimeconfig.cache

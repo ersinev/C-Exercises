@@ -1,0 +1,16 @@
+C:\Users\ersin\source\repos\Test Code Grade\Greatest\bin\Debug\net5.0\Greatest.exe
+C:\Users\ersin\source\repos\Test Code Grade\Greatest\bin\Debug\net5.0\Greatest.deps.json
+C:\Users\ersin\source\repos\Test Code Grade\Greatest\bin\Debug\net5.0\Greatest.runtimeconfig.json
+C:\Users\ersin\source\repos\Test Code Grade\Greatest\bin\Debug\net5.0\Greatest.runtimeconfig.dev.json
+C:\Users\ersin\source\repos\Test Code Grade\Greatest\bin\Debug\net5.0\Greatest.dll
+C:\Users\ersin\source\repos\Test Code Grade\Greatest\bin\Debug\net5.0\ref\Greatest.dll
+C:\Users\ersin\source\repos\Test Code Grade\Greatest\bin\Debug\net5.0\Greatest.pdb
+C:\Users\ersin\source\repos\Test Code Grade\Greatest\obj\Debug\net5.0\Greatest.csproj.AssemblyReference.cache
+C:\Users\ersin\source\repos\Test Code Grade\Greatest\obj\Debug\net5.0\Greatest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\source\repos\Test Code Grade\Greatest\obj\Debug\net5.0\Greatest.AssemblyInfoInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\Greatest\obj\Debug\net5.0\Greatest.AssemblyInfo.cs
+C:\Users\ersin\source\repos\Test Code Grade\Greatest\obj\Debug\net5.0\Greatest.csproj.CoreCompileInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\Greatest\obj\Debug\net5.0\Greatest.dll
+C:\Users\ersin\source\repos\Test Code Grade\Greatest\obj\Debug\net5.0\ref\Greatest.dll
+C:\Users\ersin\source\repos\Test Code Grade\Greatest\obj\Debug\net5.0\Greatest.pdb
+C:\Users\ersin\source\repos\Test Code Grade\Greatest\obj\Debug\net5.0\Greatest.genruntimeconfig.cache

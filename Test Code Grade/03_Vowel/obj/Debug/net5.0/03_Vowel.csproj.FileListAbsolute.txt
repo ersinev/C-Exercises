@@ -1,0 +1,16 @@
+C:\Users\ersin\source\repos\Test Code Grade\03_Vowel\bin\Debug\net5.0\03_Vowel.exe
+C:\Users\ersin\source\repos\Test Code Grade\03_Vowel\bin\Debug\net5.0\03_Vowel.deps.json
+C:\Users\ersin\source\repos\Test Code Grade\03_Vowel\bin\Debug\net5.0\03_Vowel.runtimeconfig.json
+C:\Users\ersin\source\repos\Test Code Grade\03_Vowel\bin\Debug\net5.0\03_Vowel.runtimeconfig.dev.json
+C:\Users\ersin\source\repos\Test Code Grade\03_Vowel\bin\Debug\net5.0\03_Vowel.dll
+C:\Users\ersin\source\repos\Test Code Grade\03_Vowel\bin\Debug\net5.0\ref\03_Vowel.dll
+C:\Users\ersin\source\repos\Test Code Grade\03_Vowel\bin\Debug\net5.0\03_Vowel.pdb
+C:\Users\ersin\source\repos\Test Code Grade\03_Vowel\obj\Debug\net5.0\03_Vowel.csproj.AssemblyReference.cache
+C:\Users\ersin\source\repos\Test Code Grade\03_Vowel\obj\Debug\net5.0\03_Vowel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\source\repos\Test Code Grade\03_Vowel\obj\Debug\net5.0\03_Vowel.AssemblyInfoInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\03_Vowel\obj\Debug\net5.0\03_Vowel.AssemblyInfo.cs
+C:\Users\ersin\source\repos\Test Code Grade\03_Vowel\obj\Debug\net5.0\03_Vowel.csproj.CoreCompileInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\03_Vowel\obj\Debug\net5.0\03_Vowel.dll
+C:\Users\ersin\source\repos\Test Code Grade\03_Vowel\obj\Debug\net5.0\ref\03_Vowel.dll
+C:\Users\ersin\source\repos\Test Code Grade\03_Vowel\obj\Debug\net5.0\03_Vowel.pdb
+C:\Users\ersin\source\repos\Test Code Grade\03_Vowel\obj\Debug\net5.0\03_Vowel.genruntimeconfig.cache

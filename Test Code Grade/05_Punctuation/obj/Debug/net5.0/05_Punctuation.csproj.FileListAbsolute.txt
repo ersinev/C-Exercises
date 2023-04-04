@@ -1,0 +1,16 @@
+C:\Users\ersin\source\repos\Test Code Grade\05_Punctuation\bin\Debug\net5.0\05_Punctuation.exe
+C:\Users\ersin\source\repos\Test Code Grade\05_Punctuation\bin\Debug\net5.0\05_Punctuation.deps.json
+C:\Users\ersin\source\repos\Test Code Grade\05_Punctuation\bin\Debug\net5.0\05_Punctuation.runtimeconfig.json
+C:\Users\ersin\source\repos\Test Code Grade\05_Punctuation\bin\Debug\net5.0\05_Punctuation.runtimeconfig.dev.json
+C:\Users\ersin\source\repos\Test Code Grade\05_Punctuation\bin\Debug\net5.0\05_Punctuation.dll
+C:\Users\ersin\source\repos\Test Code Grade\05_Punctuation\bin\Debug\net5.0\ref\05_Punctuation.dll
+C:\Users\ersin\source\repos\Test Code Grade\05_Punctuation\bin\Debug\net5.0\05_Punctuation.pdb
+C:\Users\ersin\source\repos\Test Code Grade\05_Punctuation\obj\Debug\net5.0\05_Punctuation.csproj.AssemblyReference.cache
+C:\Users\ersin\source\repos\Test Code Grade\05_Punctuation\obj\Debug\net5.0\05_Punctuation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\source\repos\Test Code Grade\05_Punctuation\obj\Debug\net5.0\05_Punctuation.AssemblyInfoInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\05_Punctuation\obj\Debug\net5.0\05_Punctuation.AssemblyInfo.cs
+C:\Users\ersin\source\repos\Test Code Grade\05_Punctuation\obj\Debug\net5.0\05_Punctuation.csproj.CoreCompileInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\05_Punctuation\obj\Debug\net5.0\05_Punctuation.dll
+C:\Users\ersin\source\repos\Test Code Grade\05_Punctuation\obj\Debug\net5.0\ref\05_Punctuation.dll
+C:\Users\ersin\source\repos\Test Code Grade\05_Punctuation\obj\Debug\net5.0\05_Punctuation.pdb
+C:\Users\ersin\source\repos\Test Code Grade\05_Punctuation\obj\Debug\net5.0\05_Punctuation.genruntimeconfig.cache

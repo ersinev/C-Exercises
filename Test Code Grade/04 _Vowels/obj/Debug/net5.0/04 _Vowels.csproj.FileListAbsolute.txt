@@ -1,0 +1,15 @@
+C:\Users\ersin\source\repos\Test Code Grade\04 _Vowels\bin\Debug\net5.0\04 _Vowels.exe
+C:\Users\ersin\source\repos\Test Code Grade\04 _Vowels\bin\Debug\net5.0\04 _Vowels.deps.json
+C:\Users\ersin\source\repos\Test Code Grade\04 _Vowels\bin\Debug\net5.0\04 _Vowels.runtimeconfig.json
+C:\Users\ersin\source\repos\Test Code Grade\04 _Vowels\bin\Debug\net5.0\04 _Vowels.runtimeconfig.dev.json
+C:\Users\ersin\source\repos\Test Code Grade\04 _Vowels\bin\Debug\net5.0\04 _Vowels.dll
+C:\Users\ersin\source\repos\Test Code Grade\04 _Vowels\bin\Debug\net5.0\ref\04 _Vowels.dll
+C:\Users\ersin\source\repos\Test Code Grade\04 _Vowels\bin\Debug\net5.0\04 _Vowels.pdb
+C:\Users\ersin\source\repos\Test Code Grade\04 _Vowels\obj\Debug\net5.0\04 _Vowels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\source\repos\Test Code Grade\04 _Vowels\obj\Debug\net5.0\04 _Vowels.AssemblyInfoInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\04 _Vowels\obj\Debug\net5.0\04 _Vowels.AssemblyInfo.cs
+C:\Users\ersin\source\repos\Test Code Grade\04 _Vowels\obj\Debug\net5.0\04 _Vowels.csproj.CoreCompileInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\04 _Vowels\obj\Debug\net5.0\04 _Vowels.dll
+C:\Users\ersin\source\repos\Test Code Grade\04 _Vowels\obj\Debug\net5.0\ref\04 _Vowels.dll
+C:\Users\ersin\source\repos\Test Code Grade\04 _Vowels\obj\Debug\net5.0\04 _Vowels.pdb
+C:\Users\ersin\source\repos\Test Code Grade\04 _Vowels\obj\Debug\net5.0\04 _Vowels.genruntimeconfig.cache

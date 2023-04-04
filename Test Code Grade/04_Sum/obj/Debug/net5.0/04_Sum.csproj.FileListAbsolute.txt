@@ -1,0 +1,15 @@
+C:\Users\ersin\source\repos\Test Code Grade\04_Sum\bin\Debug\net5.0\04_Sum.exe
+C:\Users\ersin\source\repos\Test Code Grade\04_Sum\bin\Debug\net5.0\04_Sum.deps.json
+C:\Users\ersin\source\repos\Test Code Grade\04_Sum\bin\Debug\net5.0\04_Sum.runtimeconfig.json
+C:\Users\ersin\source\repos\Test Code Grade\04_Sum\bin\Debug\net5.0\04_Sum.runtimeconfig.dev.json
+C:\Users\ersin\source\repos\Test Code Grade\04_Sum\bin\Debug\net5.0\04_Sum.dll
+C:\Users\ersin\source\repos\Test Code Grade\04_Sum\bin\Debug\net5.0\ref\04_Sum.dll
+C:\Users\ersin\source\repos\Test Code Grade\04_Sum\bin\Debug\net5.0\04_Sum.pdb
+C:\Users\ersin\source\repos\Test Code Grade\04_Sum\obj\Debug\net5.0\04_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\source\repos\Test Code Grade\04_Sum\obj\Debug\net5.0\04_Sum.AssemblyInfoInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\04_Sum\obj\Debug\net5.0\04_Sum.AssemblyInfo.cs
+C:\Users\ersin\source\repos\Test Code Grade\04_Sum\obj\Debug\net5.0\04_Sum.csproj.CoreCompileInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\04_Sum\obj\Debug\net5.0\04_Sum.dll
+C:\Users\ersin\source\repos\Test Code Grade\04_Sum\obj\Debug\net5.0\ref\04_Sum.dll
+C:\Users\ersin\source\repos\Test Code Grade\04_Sum\obj\Debug\net5.0\04_Sum.pdb
+C:\Users\ersin\source\repos\Test Code Grade\04_Sum\obj\Debug\net5.0\04_Sum.genruntimeconfig.cache

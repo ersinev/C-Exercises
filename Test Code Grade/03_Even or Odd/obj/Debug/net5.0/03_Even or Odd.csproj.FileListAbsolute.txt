@@ -1,0 +1,15 @@
+C:\Users\ersin\source\repos\Test Code Grade\03_Even or Odd\bin\Debug\net5.0\03_Even or Odd.exe
+C:\Users\ersin\source\repos\Test Code Grade\03_Even or Odd\bin\Debug\net5.0\03_Even or Odd.deps.json
+C:\Users\ersin\source\repos\Test Code Grade\03_Even or Odd\bin\Debug\net5.0\03_Even or Odd.runtimeconfig.json
+C:\Users\ersin\source\repos\Test Code Grade\03_Even or Odd\bin\Debug\net5.0\03_Even or Odd.runtimeconfig.dev.json
+C:\Users\ersin\source\repos\Test Code Grade\03_Even or Odd\bin\Debug\net5.0\03_Even or Odd.dll
+C:\Users\ersin\source\repos\Test Code Grade\03_Even or Odd\bin\Debug\net5.0\ref\03_Even or Odd.dll
+C:\Users\ersin\source\repos\Test Code Grade\03_Even or Odd\bin\Debug\net5.0\03_Even or Odd.pdb
+C:\Users\ersin\source\repos\Test Code Grade\03_Even or Odd\obj\Debug\net5.0\03_Even or Odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\source\repos\Test Code Grade\03_Even or Odd\obj\Debug\net5.0\03_Even or Odd.AssemblyInfoInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\03_Even or Odd\obj\Debug\net5.0\03_Even or Odd.AssemblyInfo.cs
+C:\Users\ersin\source\repos\Test Code Grade\03_Even or Odd\obj\Debug\net5.0\03_Even or Odd.csproj.CoreCompileInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\03_Even or Odd\obj\Debug\net5.0\03_Even or Odd.dll
+C:\Users\ersin\source\repos\Test Code Grade\03_Even or Odd\obj\Debug\net5.0\ref\03_Even or Odd.dll
+C:\Users\ersin\source\repos\Test Code Grade\03_Even or Odd\obj\Debug\net5.0\03_Even or Odd.pdb
+C:\Users\ersin\source\repos\Test Code Grade\03_Even or Odd\obj\Debug\net5.0\03_Even or Odd.genruntimeconfig.cache

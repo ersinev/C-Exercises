@@ -1,0 +1,15 @@
+C:\Users\ersin\source\repos\Test Code Grade\03_Lowercase_uppercase\bin\Debug\net5.0\03_Lowercase_uppercase.exe
+C:\Users\ersin\source\repos\Test Code Grade\03_Lowercase_uppercase\bin\Debug\net5.0\03_Lowercase_uppercase.deps.json
+C:\Users\ersin\source\repos\Test Code Grade\03_Lowercase_uppercase\bin\Debug\net5.0\03_Lowercase_uppercase.runtimeconfig.json
+C:\Users\ersin\source\repos\Test Code Grade\03_Lowercase_uppercase\bin\Debug\net5.0\03_Lowercase_uppercase.runtimeconfig.dev.json
+C:\Users\ersin\source\repos\Test Code Grade\03_Lowercase_uppercase\bin\Debug\net5.0\03_Lowercase_uppercase.dll
+C:\Users\ersin\source\repos\Test Code Grade\03_Lowercase_uppercase\bin\Debug\net5.0\ref\03_Lowercase_uppercase.dll
+C:\Users\ersin\source\repos\Test Code Grade\03_Lowercase_uppercase\bin\Debug\net5.0\03_Lowercase_uppercase.pdb
+C:\Users\ersin\source\repos\Test Code Grade\03_Lowercase_uppercase\obj\Debug\net5.0\03_Lowercase_uppercase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\source\repos\Test Code Grade\03_Lowercase_uppercase\obj\Debug\net5.0\03_Lowercase_uppercase.AssemblyInfoInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\03_Lowercase_uppercase\obj\Debug\net5.0\03_Lowercase_uppercase.AssemblyInfo.cs
+C:\Users\ersin\source\repos\Test Code Grade\03_Lowercase_uppercase\obj\Debug\net5.0\03_Lowercase_uppercase.csproj.CoreCompileInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\03_Lowercase_uppercase\obj\Debug\net5.0\03_Lowercase_uppercase.dll
+C:\Users\ersin\source\repos\Test Code Grade\03_Lowercase_uppercase\obj\Debug\net5.0\ref\03_Lowercase_uppercase.dll
+C:\Users\ersin\source\repos\Test Code Grade\03_Lowercase_uppercase\obj\Debug\net5.0\03_Lowercase_uppercase.pdb
+C:\Users\ersin\source\repos\Test Code Grade\03_Lowercase_uppercase\obj\Debug\net5.0\03_Lowercase_uppercase.genruntimeconfig.cache

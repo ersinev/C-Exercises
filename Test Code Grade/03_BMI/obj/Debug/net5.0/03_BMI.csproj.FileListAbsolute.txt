@@ -1,0 +1,16 @@
+C:\Users\ersin\source\repos\Test Code Grade\03_BMI\bin\Debug\net5.0\03_BMI.exe
+C:\Users\ersin\source\repos\Test Code Grade\03_BMI\bin\Debug\net5.0\03_BMI.deps.json
+C:\Users\ersin\source\repos\Test Code Grade\03_BMI\bin\Debug\net5.0\03_BMI.runtimeconfig.json
+C:\Users\ersin\source\repos\Test Code Grade\03_BMI\bin\Debug\net5.0\03_BMI.runtimeconfig.dev.json
+C:\Users\ersin\source\repos\Test Code Grade\03_BMI\bin\Debug\net5.0\03_BMI.dll
+C:\Users\ersin\source\repos\Test Code Grade\03_BMI\bin\Debug\net5.0\ref\03_BMI.dll
+C:\Users\ersin\source\repos\Test Code Grade\03_BMI\bin\Debug\net5.0\03_BMI.pdb
+C:\Users\ersin\source\repos\Test Code Grade\03_BMI\obj\Debug\net5.0\03_BMI.csproj.AssemblyReference.cache
+C:\Users\ersin\source\repos\Test Code Grade\03_BMI\obj\Debug\net5.0\03_BMI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersin\source\repos\Test Code Grade\03_BMI\obj\Debug\net5.0\03_BMI.AssemblyInfoInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\03_BMI\obj\Debug\net5.0\03_BMI.AssemblyInfo.cs
+C:\Users\ersin\source\repos\Test Code Grade\03_BMI\obj\Debug\net5.0\03_BMI.csproj.CoreCompileInputs.cache
+C:\Users\ersin\source\repos\Test Code Grade\03_BMI\obj\Debug\net5.0\03_BMI.dll
+C:\Users\ersin\source\repos\Test Code Grade\03_BMI\obj\Debug\net5.0\ref\03_BMI.dll
+C:\Users\ersin\source\repos\Test Code Grade\03_BMI\obj\Debug\net5.0\03_BMI.pdb
+C:\Users\ersin\source\repos\Test Code Grade\03_BMI\obj\Debug\net5.0\03_BMI.genruntimeconfig.cache
